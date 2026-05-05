@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-MuditChauhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MuditChauhan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mudit169-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mudit169/)
 [![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Auto Sync](https://img.shields.io/badge/Auto--Sync-LeetHub_v2-00B4D8?style=for-the-badge&logo=github&logoColor=white)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=muditchauhan1409&label=Repo+Views&color=FFA116&style=for-the-badge)]()
@@ -35,7 +35,7 @@ leetcode-solutions/
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MuditChauhan?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/MuditChauhan/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mudit169?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/mudit169/)
 
 </div>
 
@@ -139,7 +139,7 @@ public String myApproach(Problem p) {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muditc57@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muditchauhan1409)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudit-chauhan-atwork/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MuditChauhan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mudit169/)
 
 </div>
 
@@ -152,19 +152,3 @@ public String myApproach(Problem p) {
 > **Star this repo** if it helps you in your DSA journey!
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## String
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-<!---LeetCode Topics End-->
