@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-muditchauhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/muditchauhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-muditchauhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/MuditChauhan)
 [![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Auto Sync](https://img.shields.io/badge/Auto--Sync-LeetHub_v2-00B4D8?style=for-the-badge&logo=github&logoColor=white)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=muditchauhan1409&label=Repo+Views&color=FFA116&style=for-the-badge)]()
@@ -35,7 +35,7 @@ leetcode-solutions/
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/muditchauhan?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/muditchauhan)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MuditChauhan?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
