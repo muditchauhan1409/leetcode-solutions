@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0061-rotate-list) |
+## Math
+|  |
+| ------- |
+| [0804-rotated-digits](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0804-rotated-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0804-rotated-digits](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0804-rotated-digits) |
 <!---LeetCode Topics End-->
