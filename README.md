@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA116&center=true&vCenter=true&width=700&lines=⚡+LeetCode+Solutions+by+Mudit+Chauhan;Solving+One+Problem+at+a+Time+🧠;Array+%7C+DP+%7C+Trees+%7C+Graphs+%7C+More...;Keep+Grinding+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA116&center=true&vCenter=true&width=700&lines=â¡+LeetCode+Solutions+by+Mudit+Chauhan;Solving+One+Problem+at+a+Time+ð§ ;Array+%7C+DP+%7C+Trees+%7C+Graphs+%7C+More...;Keep+Grinding+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -14,25 +14,25 @@
 
 ---
 
-## 🗺️ What's This Repo?
+## ðºï¸ What's This Repo?
 
-> 🤖 This repository is **automatically synced** with my LeetCode account using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
-> Every time I solve a problem on LeetCode, it gets pushed here instantly — organized by topic.
+> ð¤ This repository is **automatically synced** with my LeetCode account using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+> Every time I solve a problem on LeetCode, it gets pushed here instantly â organized by topic.
 
 ```
-📁 leetcode-solutions/
-├── 🟨 Array/
-├── 🟦 Hash Table/
-├── 🟩 Linked List/
-├── 🟪 Dynamic Programming/
-├── 🟥 Two Pointers/
-├── 🟧 Math/
-└── ... more topics added as I solve!
+ð leetcode-solutions/
+âââ ð¨ Array/
+âââ ð¦ Hash Table/
+âââ ð© Linked List/
+âââ ðª Dynamic Programming/
+âââ ð¥ Two Pointers/
+âââ ð§ Math/
+âââ ... more topics added as I solve!
 ```
 
 ---
 
-## 📊 My LeetCode Stats
+## ð My LeetCode Stats
 
 <div align="center">
 
@@ -42,40 +42,40 @@
 
 ---
 
-## 🗂️ Problems by Topic
+## ðï¸ Problems by Topic
 
 <div align="center">
 
 | # | Topic | Problems Solved | Difficulty Mix |
 |---|-------|----------------|----------------|
-| 1 | 🔢 Array | ✅ Growing... | 🟢🟡 |
-| 2 | #️⃣ Hash Table | ✅ Growing... | 🟢🟡 |
-| 3 | 🔗 Linked List | ✅ Growing... | 🟢🟡 |
-| 4 | 👉 Two Pointers | ✅ Growing... | 🟡 |
-| 5 | ➗ Math | ✅ Growing... | 🟢🟡 |
-| 6 | 🧮 Dynamic Programming | ✅ Growing... | 🟡🔴 |
+| 1 | ð¢ Array | â Growing... | ð¢ð¡ |
+| 2 | #ï¸â£ Hash Table | â Growing... | ð¢ð¡ |
+| 3 | ð Linked List | â Growing... | ð¢ð¡ |
+| 4 | ð Two Pointers | â Growing... | ð¡ |
+| 5 | â Math | â Growing... | ð¢ð¡ |
+| 6 | ð§® Dynamic Programming | â Growing... | ð¡ð´ |
 
 </div>
 
-> 🔄 *Table updates as I solve more problems across topics.*
+> ð *Table updates as I solve more problems across topics.*
 
 ---
 
-## 🏆 Problem Difficulty Legend
+## ð Problem Difficulty Legend
 
 <div align="center">
 
 | Badge | Meaning |
 |-------|---------|
-| 🟢 **Easy** | Foundational concepts, warm-up problems |
-| 🟡 **Medium** | Core interview problems, pattern recognition |
-| 🔴 **Hard** | Advanced algorithms, optimization challenges |
+| ð¢ **Easy** | Foundational concepts, warm-up problems |
+| ð¡ **Medium** | Core interview problems, pattern recognition |
+| ð´ **Hard** | Advanced algorithms, optimization challenges |
 
 </div>
 
 ---
 
-## 🧠 Topics I'm Mastering
+## ð§  Topics I'm Mastering
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 💡 My Approach to Problem Solving
+## ð¡ My Approach to Problem Solving
 
 ```java
 public String myApproach(Problem p) {
@@ -120,39 +120,39 @@ public String myApproach(Problem p) {
 
 ---
 
-## 🔥 Consistency Tracker
+## ð¥ Consistency Tracker
 
 ```
-🎯 Goal: Solve at least 1 problem daily
-📅 Started: June 2024
-⚡ Current Streak: Keep it going!
+ð¯ Goal: Solve at least 1 problem daily
+ð Started: June 2024
+â¡ Current Streak: Keep it going!
 
-Jan  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-Feb  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-Mar  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-Apr  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-May  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░
-       ↑ Grinding 🔥
+Jan  âââââââââââââââââââââââââââââââ
+Feb  ââââââââââââââââââââââââââââ
+Mar  âââââââââââââââââââââââââââââââ
+Apr  ââââââââââââââââââââââââââââââ
+May  âââââââââââââââââââââââââââââââ
+       â Grinding ð¥
 ```
 
 ---
 
-## 📚 Resources I Use
+## ð Resources I Use
 
 <div align="center">
 
 | Resource | Purpose |
 |----------|---------|
-| 📘 [NeetCode](https://neetcode.io) | Pattern-based learning |
-| 🎯 [LeetCode](https://leetcode.com) | Daily practice |
-| 📗 [GeeksforGeeks](https://geeksforgeeks.org) | Concept clarity |
-| 🎥 [Striver's DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) | Structured roadmap |
+| ð [NeetCode](https://neetcode.io) | Pattern-based learning |
+| ð¯ [LeetCode](https://leetcode.com) | Daily practice |
+| ð [GeeksforGeeks](https://geeksforgeeks.org) | Concept clarity |
+| ð¥ [Striver's DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) | Structured roadmap |
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## ð Connect With Me
 
 <div align="center">
 
@@ -167,8 +167,20 @@ May  ████░░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-> 💬 *"The only way to get better at DSA is to solve problems every single day."*
+> ð¬ *"The only way to get better at DSA is to solve problems every single day."*
 >
-> ⭐ **Star this repo** if it helps you in your DSA journey!
+> â­ **Star this repo** if it helps you in your DSA journey!
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+<!---LeetCode Topics End-->
