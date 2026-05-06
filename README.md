@@ -152,3 +152,19 @@ public String myApproach(Problem p) {
 > **Star this repo** if it helps you in your DSA journey!
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1972-rotating-the-box) |
+## Two Pointers
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1972-rotating-the-box) |
+## Matrix
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1972-rotating-the-box) |
+<!---LeetCode Topics End-->
