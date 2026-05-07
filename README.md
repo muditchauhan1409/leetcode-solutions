@@ -159,6 +159,7 @@ public String myApproach(Problem p) {
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1972-rotating-the-box) |
+| [3981-jump-game-ix](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3981-jump-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,4 +168,8 @@ public String myApproach(Problem p) {
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1972-rotating-the-box) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3981-jump-game-ix](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3981-jump-game-ix) |
 <!---LeetCode Topics End-->
