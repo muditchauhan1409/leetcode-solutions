@@ -116,11 +116,11 @@
 ```java
 public Solution solve(Problem p) {
 
-    // 01. UNDERSTAND — read twice, draw examples, spot edge cases
+    // 01. UNDERSTAND â read twice, draw examples, spot edge cases
     Examples ex    = p.draw();
     List<Edge> ec  = p.edgeCases();
 
-    // 02. BRUTE FORCE — correctness before cleverness
+    // 02. BRUTE FORCE â correctness before cleverness
     Solution brute = BruteForce.run(ex);          // O(n^2) is fine here
 
     // 03. PATTERN RECOGNITION
@@ -189,3 +189,19 @@ public Solution solve(Problem p) {
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1c1c1c,100:FFA116&section=footer&text=Every+accepted+solution+is+a+step+forward.&fontSize=14&fontColor=cccccc&animation=fadeIn" width="100%"/>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
+<!---LeetCode Topics End-->
