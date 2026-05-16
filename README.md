@@ -116,11 +116,11 @@
 ```java
 public Solution solve(Problem p) {
 
-    // 01. UNDERSTAND â read twice, draw examples, spot edge cases
+    // 01. UNDERSTAND Ã¢ÂÂ read twice, draw examples, spot edge cases
     Examples ex    = p.draw();
     List<Edge> ec  = p.edgeCases();
 
-    // 02. BRUTE FORCE â correctness before cleverness
+    // 02. BRUTE FORCE Ã¢ÂÂ correctness before cleverness
     Solution brute = BruteForce.run(ex);          // O(n^2) is fine here
 
     // 03. PATTERN RECOGNITION
@@ -195,6 +195,7 @@ public Solution solve(Problem p) {
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
 ## Matrix
 |  |
@@ -204,4 +205,8 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
