@@ -116,11 +116,11 @@
 ```java
 public Solution solve(Problem p) {
 
-    // 01. UNDERSTAND Ã¢ÂÂ read twice, draw examples, spot edge cases
+    // 01. UNDERSTAND ÃÂ¢ÃÂÃÂ read twice, draw examples, spot edge cases
     Examples ex    = p.draw();
     List<Edge> ec  = p.edgeCases();
 
-    // 02. BRUTE FORCE Ã¢ÂÂ correctness before cleverness
+    // 02. BRUTE FORCE ÃÂ¢ÃÂÃÂ correctness before cleverness
     Solution brute = BruteForce.run(ex);          // O(n^2) is fine here
 
     // 03. PATTERN RECOGNITION
