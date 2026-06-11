@@ -116,28 +116,35 @@
 ```java
 public Solution solve(Problem p) {
 
-    // 01. UNDERSTAND ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ read twice, draw examples, spot edge cases
-    Examples ex    = p.draw();
-    List<Edge> ec  = p.edgeCases();
+    // 01. UNDERSTAND
+    // Read twice, draw examples, spot edge cases
+    Examples ex = p.draw();
+    List<Edge> ec = p.edgeCases();
 
-    // 02. BRUTE FORCE ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ correctness before cleverness
-    Solution brute = BruteForce.run(ex);          // O(n^2) is fine here
+    // 02. BRUTE FORCE
+    // Correctness before cleverness
+    Solution brute = BruteForce.run(ex); // O(n^2) is fine here
 
     // 03. PATTERN RECOGNITION
     Pattern pat = match(brute,
-        "Sliding Window",   "Two Pointers",
-        "Binary Search",    "HashMap",
-        "Prefix Sum",       "Monotonic Stack",
-        "DP / Memoization", "BFS / DFS"
+        "Sliding Window",
+        "Two Pointers",
+        "Binary Search",
+        "HashMap",
+        "Prefix Sum",
+        "Monotonic Stack",
+        "DP / Memoization",
+        "BFS / DFS"
     );
 
     // 04. OPTIMIZE
     Solution optimal = optimize(brute, pat);
-    log("Time  -> " + optimal.timeComplexity());  // aim for O(n) or O(n log n)
-    log("Space -> " + optimal.spaceComplexity()); // aim for O(1) or O(n)
 
-    // 05. SHIP CLEAN CODE
-    return optimal.refactor().verify(ec);
+    // 05. VERIFY
+    test(optimal, ex);
+    test(optimal, ec);
+
+    return optimal;
 }
 ```
 
