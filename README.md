@@ -116,11 +116,11 @@
 ```java
 public Solution solve(Problem p) {
 
-    // 01. UNDERSTAND ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ read twice, draw examples, spot edge cases
+    // 01. UNDERSTAND ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ read twice, draw examples, spot edge cases
     Examples ex    = p.draw();
     List<Edge> ec  = p.edgeCases();
 
-    // 02. BRUTE FORCE ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ correctness before cleverness
+    // 02. BRUTE FORCE ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ correctness before cleverness
     Solution brute = BruteForce.run(ex);          // O(n^2) is fine here
 
     // 03. PATTERN RECOGNITION
@@ -214,4 +214,16 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [4005-maximum-total-subarray-value-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4005-maximum-total-subarray-value-i) |
+## Math
+|  |
+| ------- |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+## Tree
+|  |
+| ------- |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
