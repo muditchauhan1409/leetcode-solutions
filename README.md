@@ -203,6 +203,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [4005-maximum-total-subarray-value-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4005-maximum-total-subarray-value-i) |
 ## Matrix
@@ -220,6 +221,7 @@ public Solution solve(Problem p) {
 ## Greedy
 |  |
 | ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [4005-maximum-total-subarray-value-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4005-maximum-total-subarray-value-i) |
 ## Math
 |  |
@@ -257,4 +259,12 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Sorting
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
