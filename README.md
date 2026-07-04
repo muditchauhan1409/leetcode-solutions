@@ -250,6 +250,7 @@ public Solution solve(Problem p) {
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
 |  |
@@ -308,4 +309,8 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
