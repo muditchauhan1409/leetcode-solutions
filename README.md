@@ -231,6 +231,7 @@ public Solution solve(Problem p) {
 ## Math
 |  |
 | ------- |
+| [2383-add-two-integers](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
