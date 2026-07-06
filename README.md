@@ -206,6 +206,7 @@ public Solution solve(Problem p) {
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
+| [2058-concatenation-of-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [4005-maximum-total-subarray-value-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4005-maximum-total-subarray-value-i) |
@@ -219,6 +220,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
+| [2058-concatenation-of-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 ## Binary Search
 |  |
