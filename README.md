@@ -203,6 +203,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -251,6 +252,7 @@ public Solution solve(Problem p) {
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -258,6 +260,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
@@ -326,4 +329,16 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
