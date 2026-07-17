@@ -202,6 +202,7 @@ public Solution solve(Problem p) {
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -320,4 +321,8 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
