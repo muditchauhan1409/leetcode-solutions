@@ -204,6 +204,7 @@ public Solution solve(Problem p) {
 | ------- |
 | [0001-two-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -297,6 +298,7 @@ public Solution solve(Problem p) {
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -340,6 +342,7 @@ public Solution solve(Problem p) {
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 ## Trie
 |  |
