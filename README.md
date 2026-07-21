@@ -202,6 +202,7 @@ public Solution solve(Problem p) {
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -252,6 +253,7 @@ public Solution solve(Problem p) {
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
