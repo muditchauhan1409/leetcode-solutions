@@ -207,6 +207,7 @@ public Solution solve(Problem p) {
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
@@ -308,6 +309,7 @@ public Solution solve(Problem p) {
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
