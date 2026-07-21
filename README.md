@@ -273,6 +273,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -299,6 +300,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
