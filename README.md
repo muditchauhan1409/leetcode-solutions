@@ -208,6 +208,7 @@ public Solution solve(Problem p) {
 | [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -244,6 +245,7 @@ public Solution solve(Problem p) {
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -340,6 +342,7 @@ public Solution solve(Problem p) {
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
