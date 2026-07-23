@@ -208,6 +208,7 @@ public Solution solve(Problem p) {
 | [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -262,6 +263,7 @@ public Solution solve(Problem p) {
 | ------- |
 | [0001-two-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
@@ -293,17 +295,20 @@ public Solution solve(Problem p) {
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Segment Tree
