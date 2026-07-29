@@ -206,6 +206,7 @@ public Solution solve(Problem p) {
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
@@ -226,6 +227,7 @@ public Solution solve(Problem p) {
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -264,6 +266,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
