@@ -218,6 +218,7 @@ public Solution solve(Problem p) {
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [4005-maximum-total-subarray-value-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4005-maximum-total-subarray-value-i) |
@@ -233,6 +234,7 @@ public Solution solve(Problem p) {
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 ## Binary Search
 |  |
@@ -348,6 +350,7 @@ public Solution solve(Problem p) {
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
 | ------- |
