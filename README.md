@@ -215,6 +215,7 @@ public Solution solve(Problem p) {
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -247,6 +248,7 @@ public Solution solve(Problem p) {
 | [0033-search-in-rotated-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
 ## Greedy
 |  |
