@@ -218,6 +218,7 @@ public Solution solve(Problem p) {
 | [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -252,6 +253,7 @@ public Solution solve(Problem p) {
 | [0162-find-peak-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
