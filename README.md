@@ -296,6 +296,7 @@ public Solution solve(Problem p) {
 | [0242-valid-anagram](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [1078-remove-outermost-parentheses](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -393,4 +394,12 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
