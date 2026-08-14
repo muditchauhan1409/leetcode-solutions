@@ -258,11 +258,13 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [4005-maximum-total-subarray-value-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4005-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -297,6 +299,7 @@ public Solution solve(Problem p) {
 | [0344-reverse-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
