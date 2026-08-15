@@ -221,6 +221,7 @@ public Solution solve(Problem p) {
 | [0907-koko-eating-bananas](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
@@ -256,6 +257,7 @@ public Solution solve(Problem p) {
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
 |  |
 | ------- |
