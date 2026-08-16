@@ -291,6 +291,7 @@ public Solution solve(Problem p) {
 | [0205-isomorphic-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## String
@@ -305,6 +306,7 @@ public Solution solve(Problem p) {
 | [0344-reverse-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -334,6 +336,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
