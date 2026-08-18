@@ -203,6 +203,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
@@ -329,6 +330,7 @@ public Solution solve(Problem p) {
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -380,6 +382,7 @@ public Solution solve(Problem p) {
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
