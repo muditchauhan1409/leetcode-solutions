@@ -218,6 +218,7 @@ public Solution solve(Problem p) {
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -389,6 +390,7 @@ public Solution solve(Problem p) {
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
