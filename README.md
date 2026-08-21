@@ -294,6 +294,7 @@ public Solution solve(Problem p) {
 | [0205-isomorphic-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -308,6 +309,7 @@ public Solution solve(Problem p) {
 | [0205-isomorphic-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -337,11 +339,13 @@ public Solution solve(Problem p) {
 | [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -377,6 +381,7 @@ public Solution solve(Problem p) {
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -426,4 +431,8 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
