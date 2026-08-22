@@ -244,6 +244,7 @@ public Solution solve(Problem p) {
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -270,6 +271,7 @@ public Solution solve(Problem p) {
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2383-add-two-integers) |
@@ -302,6 +304,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
