@@ -271,6 +271,7 @@ public Solution solve(Problem p) {
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
