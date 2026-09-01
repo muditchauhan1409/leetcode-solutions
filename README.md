@@ -423,6 +423,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0206-reverse-linked-list](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
@@ -440,4 +441,8 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
