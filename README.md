@@ -423,6 +423,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
