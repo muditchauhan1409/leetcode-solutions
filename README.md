@@ -209,6 +209,7 @@ public Solution solve(Problem p) {
 | [0039-combination-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
@@ -274,6 +275,7 @@ public Solution solve(Problem p) {
 | ------- |
 | [0009-palindrome-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2383-add-two-integers) |
