@@ -212,6 +212,7 @@ public Solution solve(Problem p) {
 | [0066-plus-one](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -324,6 +325,7 @@ public Solution solve(Problem p) {
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Sliding Window
