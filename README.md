@@ -223,6 +223,7 @@ public Solution solve(Problem p) {
 | [0217-contains-duplicate](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -261,6 +262,7 @@ public Solution solve(Problem p) {
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -331,6 +333,7 @@ public Solution solve(Problem p) {
 | [0137-single-number-ii](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -411,6 +414,7 @@ public Solution solve(Problem p) {
 | [0151-reverse-words-in-a-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -456,4 +460,12 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
