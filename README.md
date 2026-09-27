@@ -250,6 +250,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0415-add-strings) |
 | [2043-cyclically-rotating-a-grid](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -282,6 +283,7 @@ public Solution solve(Problem p) {
 | [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/2679-count-distinct-numbers-on-board) |
@@ -322,6 +324,7 @@ public Solution solve(Problem p) {
 | [0205-isomorphic-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
