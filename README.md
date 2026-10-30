@@ -203,6 +203,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -315,6 +316,7 @@ public Solution solve(Problem p) {
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
@@ -432,6 +434,7 @@ public Solution solve(Problem p) {
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/muditchauhan1409/leetcode-solutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
